@@ -1,0 +1,48 @@
+[
+    {
+        "invID": "201903-2",
+        "invTotal": 1369,
+        "invDate": "03/03/2019",
+        "status": "Created"
+    },
+    {
+        "invID": "201903-2",
+        "invTotal": 885,
+        "invDate": "02/24/2019",
+        "status": "Created"
+    },
+    {
+        "invID": "201903-2",
+        "invTotal": 916,
+        "invDate": "02/17/2019",
+        "status": "Created"
+    },
+    {
+        "invID": "201903-1",
+        "invTotal": 1369,
+        "invDate": "03/03/2019",
+        "status": "Created"
+    },
+    {
+        "invID": "201904-2",
+        "invTotal": 885,
+        "invDate": "02/25/2019",
+        "status": "Created"
+    },
+    {
+        "invID": "041915-654",
+        "invTotal": 2795,
+        "invDate": "03/10/2019",
+        "status": "Paid"
+    },
+    {
+        "invID": "041916-005",
+        "invTotal": 2100,
+        "status": "Paid"
+    },
+    {
+        "invID": "041916-564",
+        "invTotal": 1365,
+        "status": "Paid"
+    }
+]
